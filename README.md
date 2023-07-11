@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eokwaro
 - 👀 I’m interested in Data science (Machine Learning and Artificial intelligence)
-- 🌱 I’m currently at intermediate level in Python
-- 💞️ I’m looking to collaborate on new python projects
+- 🌱 I’m currently at beginner level
+- 💞️ I’m looking to collaborate on new ML projects
 - 📫 How to reach me edwinokwaro3@gmail.com
 
 <!---
